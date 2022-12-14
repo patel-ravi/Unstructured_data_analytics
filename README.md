@@ -1,6 +1,6 @@
 # Unstructured_data_analytics
 
-basic text analysis, Entity Recognition and Pointwise Mutual Information (PMI):
+Basic text analysis, Entity Recognition and Pointwise Mutual Information (PMI):
 
 This repository contains codes written by me as academic assignment (HW1) for the course 94-775 Unstructured Data Analytics for Policy (Spring 2022) at CMU.
 
